@@ -1658,3 +1658,817 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.09-02.17.16:518][448]LogHttp: Warning: 00000248C6DFF200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2021.10.09-02.17.16:518][448]LogHttp: Warning: 00000248C6DFF200: libcurl info message cache 1 (Closing connection 3)
 [2021.10.09-02.17.16:518][448]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8ED90C1B-4195-FEDA-5320-0B99E7A0968A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.0-17155196%2B%2B%2BUE4%2BRelease-4.27&UserID=3cdff8c9432b3418c848a285af9ecf34%7C749d6501503244858268ce34e75c481f%7C30a7a3d5-881b-4302-8317-f649275989b9&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.10.09-02.41.50:321][837]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.09-02.41.50:321][837]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.09-02.42.11:234][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.09-02.42.11:239][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.09-02.42.11:239][ 67]PIE: New page: PIE session: FirstPersonExampleMap (Oct 8, 2021, 4:42:11 PM)
+[2021.10.09-02.42.11:239][ 67]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-02.42.11:252][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012593s)
+[2021.10.09-02.42.11:253][ 67]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.09-02.42.11:253][ 67]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2021.10.09-02.42.11:253][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014101s)
+[2021.10.09-02.42.11:280][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.10.09-02.42.11:282][ 67]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.10.09-02.42.11:282][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.09-02.42.11:282][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.09-02.42.11:282][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.09-02.42.11:282][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.09-02.42.11:282][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.09-02.42.11:282][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.09-02.42.11:282][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.09-02.42.11:282][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.09-02.42.11:283][ 67]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.09-02.42.11:283][ 67]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.09-02.42.11:283][ 67]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.09-02.42.11:283][ 67]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.09-02.42.11:287][ 67]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.09-02.42.11:287][ 67]LogAudioMixer: Display: 1: FrontRight
+[2021.10.09-02.42.11:287][ 67]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.09-02.42.11:288][ 67]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.09-02.42.11:288][ 67]LogAudioMixer: Display: 4: BackLeft
+[2021.10.09-02.42.11:288][ 67]LogAudioMixer: Display: 5: BackRight
+[2021.10.09-02.42.11:288][ 67]LogAudioMixer: Display: 6: SideLeft
+[2021.10.09-02.42.11:288][ 67]LogAudioMixer: Display: 7: SideRight
+[2021.10.09-02.42.11:324][ 67]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.10.09-02.42.11:324][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.09-02.42.11:324][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.09-02.42.11:324][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.09-02.42.11:324][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.09-02.42.11:324][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.09-02.42.11:324][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.09-02.42.11:325][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.09-02.42.11:325][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.09-02.42.11:325][ 67]LogInit: FAudioDevice initialized.
+[2021.10.09-02.42.11:325][ 67]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonExampleMap'.
+[2021.10.09-02.42.11:331][ 67]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.09-02.42.11:333][ 67]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.10.08-21.42.11
+[2021.10.09-02.42.11:333][ 67]LogWorld: Bringing up level for play took: 0.001525
+[2021.10.09-02.42.11:334][ 67]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.10.09-02.42.11:336][ 67]PIE: Server logged in
+[2021.10.09-02.42.11:336][ 67]PIE: Play in editor total start time 0.099 seconds.
+[2021.10.09-02.42.14:870][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-02.42.14:870][275]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-02.42.14:870][275]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.09-02.42.14:870][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-02.42.14:877][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.09-02.42.14:881][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-02.42.14:900][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-02.42.14:900][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-02.42.14:901][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-02.42.14:916][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.10.09-02.42.14:937][276]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.10.09-02.42.41:689][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-02.42.41:702][343]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal91E44EEC4D3A48FE1CBFDFA400FA72A7.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-02.42.41:717][343]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-02.42.41:717][343]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-02.42.42:368][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.10.09-02.42.42:384][376]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap48517C7D4088F5D07B0F43A845DDDF01.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.09-02.42.42:841][376]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap_BuiltData0140A67E4F6706BD509F549C84A20E97.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.09-02.42.42:852][376]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.09-02.42.42:853][376]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.09-02.42.42:853][376]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.09-02.42.46:807][577]LogSlate: Took 0.005188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.10.09-02.43.00:171][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-02.43.00:187][370]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalCD86CDE84A01CA5A711C9DAB5A5F4E2B.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-02.43.00:201][370]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-02.43.00:201][370]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-02.43.01:193][425]BlueprintLog: New page: Compile Portal
+[2021.10.09-02.43.01:233][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.10.09-02.43.01:586][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-02.43.01:605][442]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal9AD05A0945777E4B6690D9821DD74C30.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-02.43.01:618][442]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-02.43.01:618][442]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-02.43.01:878][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.10.09-02.43.01:893][454]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMapFF6B196E445194648619ADAC092A0FD3.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.09-02.43.02:368][454]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap_BuiltData17CB955342792E1D85D3F2A41C157901.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.09-02.43.02:380][454]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.09-02.43.02:380][454]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.09-02.43.02:380][454]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.09-03.12.21:661][882]BlueprintLog: New page: Compile Portal
+[2021.10.09-03.12.21:702][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.10.09-03.12.22:377][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-03.12.22:393][915]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal79F1B53F433C0D6DFA971DBDAF82457C.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-03.12.22:406][915]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-03.12.22:406][915]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-03.12.22:886][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.10.09-03.12.22:905][939]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap1BEC7F47494B951E569C97868B5E8497.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.09-03.12.23:478][939]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap_BuiltData69ACCB3D493E5F1F420062AF96BCBB3A.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.09-03.12.23:492][939]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.09-03.12.23:492][939]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.09-03.12.23:492][939]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.09-03.12.29:246][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-03.12.29:264][276]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal5FE159F14E7DB8129EE9C99E6CA27702.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-03.12.29:277][276]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-03.12.29:277][276]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-03.12.30:367][339]BlueprintLog: New page: Compile Portal
+[2021.10.09-03.12.30:407][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.10.09-03.12.30:915][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-03.12.30:931][365]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalC008B0C643524866AC7D4381306A79AF.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-03.12.30:944][365]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-03.12.30:944][365]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-03.12.31:268][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.10.09-03.12.31:287][379]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap285B930F42E610112BA453B9EEE2A662.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.09-03.12.31:873][379]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap_BuiltData40314EED4F2B5A06DD6066803AAE7B13.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.09-03.12.31:885][379]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.09-03.12.31:885][379]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.09-03.12.31:885][379]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.09-03.12.38:627][769]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.10.09-03.13.06:563][364]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonCharacter8BE5DCD14F1F9BA590EAEC94CB3829F6.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.10.09-03.13.06:580][364]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.10.09-03.13.06:580][364]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.10.09-03.13.07:262][404]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.10.09-03.13.07:322][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.10.09-03.13.07:758][422]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonCharacterEAD4862341B404CA083F28A516E7A82F.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.10.09-03.13.07:774][422]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.10.09-03.13.07:774][422]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.10.09-03.13.08:051][434]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonCharacter7FECF6384C52C7D9069EB7A630527D00.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.10.09-03.13.08:071][434]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.10.09-03.13.08:071][434]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.10.09-03.13.18:548][ 18]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.10.09-03.13.18:606][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.10.09-03.13.19:138][ 40]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonCharacter4D27706B45F73574ADE369A851768CBD.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.10.09-03.13.19:153][ 40]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.10.09-03.13.19:153][ 40]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.10.09-03.13.19:460][ 54]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonCharacterF640C06343F92646609B908C80C5DA14.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.10.09-03.13.19:473][ 54]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.10.09-03.13.19:473][ 54]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.10.09-03.13.51:460][923]BlueprintLog: New page: Compile Portal
+[2021.10.09-03.13.51:509][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.10.09-03.13.51:881][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-03.13.51:897][940]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalD975003B4470A4FC3F0D4CA2BE54B039.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-03.13.51:912][940]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-03.13.51:912][940]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-03.13.53:808][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.09-03.13.53:812][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.09-03.13.53:812][ 52]PIE: New page: PIE session: FirstPersonExampleMap (Oct 8, 2021, 5:13:53 PM)
+[2021.10.09-03.13.53:812][ 52]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-03.13.53:821][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008805s)
+[2021.10.09-03.13.53:822][ 52]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.09-03.13.53:823][ 52]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2021.10.09-03.13.53:823][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010189s)
+[2021.10.09-03.13.53:854][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.10.09-03.13.53:855][ 52]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.10.09-03.13.53:855][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.09-03.13.53:855][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.09-03.13.53:855][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.09-03.13.53:855][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.09-03.13.53:855][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.09-03.13.53:855][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.09-03.13.53:855][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.09-03.13.53:855][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.09-03.13.53:855][ 52]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.09-03.13.53:855][ 52]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.09-03.13.53:855][ 52]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.09-03.13.53:855][ 52]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.09-03.13.53:860][ 52]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.09-03.13.53:860][ 52]LogAudioMixer: Display: 1: FrontRight
+[2021.10.09-03.13.53:860][ 52]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.09-03.13.53:860][ 52]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.09-03.13.53:860][ 52]LogAudioMixer: Display: 4: BackLeft
+[2021.10.09-03.13.53:860][ 52]LogAudioMixer: Display: 5: BackRight
+[2021.10.09-03.13.53:860][ 52]LogAudioMixer: Display: 6: SideLeft
+[2021.10.09-03.13.53:860][ 52]LogAudioMixer: Display: 7: SideRight
+[2021.10.09-03.13.53:898][ 52]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.10.09-03.13.53:898][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.09-03.13.53:898][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.09-03.13.53:898][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.09-03.13.53:898][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.09-03.13.53:899][ 52]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.09-03.13.53:899][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.09-03.13.53:900][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.09-03.13.53:900][ 52]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.09-03.13.53:900][ 52]LogInit: FAudioDevice initialized.
+[2021.10.09-03.13.53:900][ 52]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonExampleMap'.
+[2021.10.09-03.13.53:906][ 52]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.09-03.13.53:909][ 52]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.10.08-22.13.53
+[2021.10.09-03.13.53:909][ 52]LogWorld: Bringing up level for play took: 0.001499
+[2021.10.09-03.13.53:909][ 52]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.10.09-03.13.53:910][ 52]PIE: Server logged in
+[2021.10.09-03.13.53:911][ 52]PIE: Play in editor total start time 0.099 seconds.
+[2021.10.09-03.13.55:138][124]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:144][125]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:161][126]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:179][127]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:194][128]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:212][129]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:228][130]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:245][131]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:261][132]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:278][133]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:294][134]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:311][135]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:328][136]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:345][137]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:362][138]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:378][139]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:395][140]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:412][141]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:428][142]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:445][143]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:462][144]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:478][145]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:495][146]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:512][147]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:528][148]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:545][149]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:562][150]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:578][151]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:595][152]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:612][153]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:628][154]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:645][155]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:661][156]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:679][157]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:695][158]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:712][159]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:728][160]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:745][161]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:762][162]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:779][163]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:796][164]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:812][165]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:829][166]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:845][167]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:863][168]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:880][169]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:895][170]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:913][171]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:929][172]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:945][173]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:963][174]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:978][175]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.55:995][176]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:011][177]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:028][178]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:044][179]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:061][180]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:078][181]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:094][182]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:111][183]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:128][184]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:145][185]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:162][186]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:178][187]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:195][188]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:211][189]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:227][190]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:244][191]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:261][192]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:278][193]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:296][194]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:312][195]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:328][196]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:345][197]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:362][198]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:378][199]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:395][200]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:411][201]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:428][202]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:445][203]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:462][204]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:478][205]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:495][206]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:513][207]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:528][208]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:545][209]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:562][210]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:578][211]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:596][212]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:613][213]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:628][214]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:644][215]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:662][216]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:678][217]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:695][218]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:712][219]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:729][220]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:745][221]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:762][222]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:778][223]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:795][224]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:812][225]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:828][226]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:845][227]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:861][228]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:878][229]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:895][230]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:912][231]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:928][232]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:945][233]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:961][234]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:979][235]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.56:995][236]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:012][237]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:028][238]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:045][239]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:061][240]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:078][241]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:095][242]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:111][243]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:128][244]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:145][245]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:162][246]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:178][247]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:195][248]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:211][249]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:228][250]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:246][251]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:262][252]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:278][253]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:295][254]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:312][255]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:328][256]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:345][257]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:361][258]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:378][259]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:394][260]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:411][261]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:428][262]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:445][263]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:462][264]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:478][265]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:495][266]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:512][267]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:528][268]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:544][269]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:562][270]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:578][271]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:594][272]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:612][273]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:628][274]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:644][275]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:661][276]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:678][277]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:695][278]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:711][279]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:728][280]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:744][281]LogBlueprintUserMessages: [Portal_C_0] Translation: X=-143.006 Y=-63.315 Z=268.500 Rotation: P=0.000000 Y=-1.664886 R=0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2021.10.09-03.13.57:780][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-03.13.57:780][281]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-03.13.57:780][281]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.09-03.13.57:780][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-03.13.57:792][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.09-03.13.57:796][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-03.13.57:821][281]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.09-03.13.57:821][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-03.13.57:822][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-03.13.57:838][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-03.13.57:841][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.10.09-03.13.57:861][282]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.10.09-03.14.03:246][479]LogSlate: Window 'Delete Variable' being destroyed
+[2021.10.09-03.14.15:223][178]BlueprintLog: New page: Compile Portal
+[2021.10.09-03.14.15:227][178]LogBlueprint: Error: [AssetLog] D:\Git\UE4NonEuclid\NonEuclidPlayGround\Content\FirstPersonBP\Blueprints\Portal.uasset: [Compiler] The current value of the ' In Trans ' pin is invalid: 'In Trans' in action 'ToString (transform)' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.10.09-03.14.15:276][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.10.09-03.14.15:353][178]LogSlate: Took 0.021189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.09-03.14.15:763][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-03.14.15:778][199]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal55FA8F3945F8BC8428DC2A9D5E8849A2.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-03.14.15:792][199]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-03.14.15:792][199]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-03.14.20:698][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-03.14.20:715][485]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal955161634F40665954E3C0A9699E6C1C.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-03.14.20:728][485]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-03.14.20:728][485]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-03.14.20:985][499]BlueprintLog: New page: Compile Portal
+[2021.10.09-03.14.20:990][499]LogBlueprint: Error: [AssetLog] D:\Git\UE4NonEuclid\NonEuclidPlayGround\Content\FirstPersonBP\Blueprints\Portal.uasset: [Compiler] The current value of the ' In Trans ' pin is invalid: 'In Trans' in action 'ToString (transform)' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.10.09-03.14.21:038][499]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.10.09-03.14.24:651][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-03.14.24:667][700]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalC13628314472869B5F51BABAA868DCEE.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-03.14.24:680][700]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-03.14.24:680][700]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-03.14.29:068][950]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonCharacter5479E74548FB6C3232FA3496890457F0.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.10.09-03.14.29:080][950]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.10.09-03.14.29:080][950]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.10.09-03.14.29:855][994]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.10.09-03.14.29:921][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.10.09-03.14.30:676][ 28]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonCharacter76100F29414BBD003A5326B121C618F4.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.10.09-03.14.30:694][ 28]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.10.09-03.14.30:694][ 28]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.10.09-03.14.46:602][938]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.10.09-03.14.46:666][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.10.09-03.14.47:105][954]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonCharacterE33F86D948C4620B189ACABC5C4DE3CC.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.10.09-03.14.47:118][954]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.10.09-03.14.47:118][954]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.10.09-03.14.47:487][971]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.10.09-03.14.47:502][971]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap3C5E10F04FF69FC46D4619BBE597ED0B.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.09-03.14.48:087][971]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap_BuiltData47E313BF430BA480939EAA8D4AACD917.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.09-03.14.48:100][971]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.09-03.14.48:100][971]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.09-03.14.48:100][971]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.09-03.15.00:083][664]BlueprintLog: New page: Compile Portal
+[2021.10.09-03.15.00:137][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.10.09-03.15.00:494][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-03.15.00:511][680]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalA323C4354242FDF96A9AB1870CFA6ECC.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-03.15.00:522][680]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-03.15.00:522][680]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-03.15.00:753][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.10.09-03.15.00:768][689]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap76077FC9464E9D2735E82798042DF7A0.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.09-03.15.01:391][689]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap_BuiltData4781E513416DE0CE6FC401945D588A9E.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.09-03.15.01:408][689]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.09-03.15.01:408][689]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.09-03.15.01:408][689]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.09-05.08.37:908][ 10]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.09-05.08.37:909][ 10]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft Pinyin).
+[2021.10.09-05.14.47:907][ 52]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.09-05.14.47:907][ 52]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.09-05.14.57:831][618]LogEditorTransaction: Undo Add Node
+[2021.10.09-05.14.58:433][637]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.14.58:482][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.10.09-05.14.58:919][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.14.58:935][658]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalFC10110046E59342BCBB75BE92716185.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.14.58:949][658]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.14.58:949][658]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.15.19:874][850]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.15.19:924][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.10.09-05.15.20:598][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.15.20:615][884]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal0C5BB57747F88FD24D05E5A5611C14F4.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.15.20:652][884]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.15.20:652][884]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.15.38:739][922]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.15.38:787][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.10.09-05.15.39:197][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.15.39:213][942]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalBC8B5AE1499005F88EA1E29A2ECCCBB0.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.15.39:227][942]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.15.39:227][942]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.16.41:287][554]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.16.41:334][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.10.09-05.16.41:789][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.16.41:808][576]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalB11FA9C8476E20099759F5933DE4C1DC.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.16.41:820][576]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.16.41:820][576]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.17.04:577][913]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.17.04:623][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.10.09-05.17.05:086][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.17.05:104][934]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalFF4AD2A44B7579BF5E432CB39FF03151.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.17.05:117][934]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.17.05:118][934]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.17.12:453][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.17.12:468][365]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal559373E943E97D67AD02B5A3F9CB1E11.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.17.12:479][365]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.17.12:479][365]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.17.24:564][ 61]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.17.24:610][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.10.09-05.17.24:983][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.17.25:000][ 79]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal06535984437E4CD9153752ACA07F01F5.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.17.25:013][ 79]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.17.25:013][ 79]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.17.49:739][517]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.17.49:786][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.10.09-05.17.50:269][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.17.50:287][538]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalA600A8D74932AED121A91CA8953964D3.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.17.50:313][538]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.17.50:313][538]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.17.52:339][650]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.09-05.17.52:343][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.09-05.17.52:343][650]PIE: New page: PIE session: FirstPersonExampleMap (Oct 8, 2021, 7:17:52 PM)
+[2021.10.09-05.17.52:344][650]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-05.17.52:353][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009469s)
+[2021.10.09-05.17.52:355][650]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.09-05.17.52:355][650]LogPlayLevel: PIE: World Init took: (0.001820s)
+[2021.10.09-05.17.52:355][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011565s)
+[2021.10.09-05.17.52:387][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.10.09-05.17.52:388][650]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.10.09-05.17.52:388][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.09-05.17.52:388][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.09-05.17.52:388][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.09-05.17.52:388][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.09-05.17.52:388][650]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.09-05.17.52:388][650]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.09-05.17.52:388][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.09-05.17.52:388][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.09-05.17.52:389][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.09-05.17.52:389][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.09-05.17.52:389][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.09-05.17.52:389][650]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.09-05.17.52:394][650]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.09-05.17.52:394][650]LogAudioMixer: Display: 1: FrontRight
+[2021.10.09-05.17.52:394][650]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.09-05.17.52:394][650]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.09-05.17.52:394][650]LogAudioMixer: Display: 4: BackLeft
+[2021.10.09-05.17.52:394][650]LogAudioMixer: Display: 5: BackRight
+[2021.10.09-05.17.52:394][650]LogAudioMixer: Display: 6: SideLeft
+[2021.10.09-05.17.52:394][650]LogAudioMixer: Display: 7: SideRight
+[2021.10.09-05.17.52:428][650]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.10.09-05.17.52:428][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.09-05.17.52:429][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.09-05.17.52:429][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.09-05.17.52:429][650]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.09-05.17.52:429][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.09-05.17.52:429][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.09-05.17.52:430][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.09-05.17.52:430][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.09-05.17.52:430][650]LogInit: FAudioDevice initialized.
+[2021.10.09-05.17.52:430][650]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonExampleMap'.
+[2021.10.09-05.17.52:440][650]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.09-05.17.52:442][650]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.10.09-00.17.52
+[2021.10.09-05.17.52:443][650]LogWorld: Bringing up level for play took: 0.001456
+[2021.10.09-05.17.52:443][650]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.10.09-05.17.52:445][650]PIE: Server logged in
+[2021.10.09-05.17.52:445][650]PIE: Play in editor total start time 0.103 seconds.
+[2021.10.09-05.18.00:792][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-05.18.00:792][147]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-05.18.00:792][147]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.09-05.18.00:792][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-05.18.00:803][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.09-05.18.00:808][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-05.18.00:831][147]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.09-05.18.00:832][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-05.18.00:833][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-05.18.00:858][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-05.18.00:862][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.10.09-05.18.00:883][148]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.10.09-05.18.22:264][381]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.18.22:311][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.10.09-05.18.22:765][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.18.22:784][401]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalC46DE18E41C33554B155289AA6ADA7C8.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.18.22:812][401]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.18.22:812][401]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.18.23:073][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.10.09-05.18.23:088][412]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMapB471C8C24DA16BCA525576A23A69C209.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.09-05.18.23:625][412]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap_BuiltData74AC39254DF839F2F89BF692B7878877.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.09-05.18.23:639][412]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.09-05.18.23:639][412]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.09-05.18.23:639][412]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.09-05.18.31:693][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.18.31:710][882]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal1F5B070046CED2E37B5E4AA24E9ACEEE.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.18.31:740][882]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.18.31:740][882]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.18.32:070][899]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.18.32:114][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.10.09-05.18.42:888][524]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.18.42:935][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.10.09-05.18.43:330][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.18.43:349][540]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalAE029CA443ECD66FFAD8D488EFF0BF29.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.18.43:365][540]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.18.43:366][540]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.19.44:098][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.10.09-05.19.44:114][177]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap7828F85C43F7768655FA48AE0CB6C27D.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.09-05.19.44:652][177]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap_BuiltData850BDC114D59CCC1D53FED8F4250CCC3.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.09-05.19.44:667][177]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.09-05.19.44:667][177]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.09-05.19.44:667][177]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.09-05.26.52:070][590]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.09-05.26.52:075][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.09-05.26.52:075][590]PIE: New page: PIE session: FirstPersonExampleMap (Oct 8, 2021, 7:26:52 PM)
+[2021.10.09-05.26.52:075][590]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-05.26.52:085][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009567s)
+[2021.10.09-05.26.52:087][590]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.09-05.26.52:087][590]LogPlayLevel: PIE: World Init took: (0.002135s)
+[2021.10.09-05.26.52:087][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011982s)
+[2021.10.09-05.26.52:123][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.10.09-05.26.52:125][590]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.10.09-05.26.52:125][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.09-05.26.52:126][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.09-05.26.52:126][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.09-05.26.52:126][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.09-05.26.52:126][590]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.09-05.26.52:126][590]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.09-05.26.52:126][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.09-05.26.52:126][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.09-05.26.52:126][590]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.09-05.26.52:126][590]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.09-05.26.52:126][590]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.09-05.26.52:126][590]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.09-05.26.52:130][590]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.09-05.26.52:130][590]LogAudioMixer: Display: 1: FrontRight
+[2021.10.09-05.26.52:130][590]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.09-05.26.52:130][590]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.09-05.26.52:130][590]LogAudioMixer: Display: 4: BackLeft
+[2021.10.09-05.26.52:130][590]LogAudioMixer: Display: 5: BackRight
+[2021.10.09-05.26.52:130][590]LogAudioMixer: Display: 6: SideLeft
+[2021.10.09-05.26.52:130][590]LogAudioMixer: Display: 7: SideRight
+[2021.10.09-05.26.52:165][590]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.10.09-05.26.52:165][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.09-05.26.52:165][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.09-05.26.52:165][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.09-05.26.52:165][590]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.09-05.26.52:165][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.09-05.26.52:165][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.09-05.26.52:166][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.09-05.26.52:166][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.09-05.26.52:166][590]LogInit: FAudioDevice initialized.
+[2021.10.09-05.26.52:166][590]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonExampleMap'.
+[2021.10.09-05.26.52:176][590]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.09-05.26.52:177][590]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.10.09-00.26.52
+[2021.10.09-05.26.52:178][590]LogWorld: Bringing up level for play took: 0.001475
+[2021.10.09-05.26.52:178][590]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.10.09-05.26.52:180][590]PIE: Server logged in
+[2021.10.09-05.26.52:181][590]PIE: Play in editor total start time 0.107 seconds.
+[2021.10.09-05.27.05:142][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-05.27.05:142][364]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-05.27.05:142][364]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.09-05.27.05:142][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-05.27.05:152][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.09-05.27.05:156][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-05.27.05:179][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-05.27.05:180][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-05.27.05:181][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-05.27.05:218][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.10.09-05.27.05:240][365]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.10.09-05.30.55:561][115]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.30.55:609][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.10.09-05.30.56:097][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.30.56:117][137]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal672E488E41081344A6B6EB98C35F8F1C.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.30.56:131][137]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.30.56:131][137]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.30.58:057][238]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.09-05.30.58:060][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.09-05.30.58:060][238]PIE: New page: PIE session: FirstPersonExampleMap (Oct 8, 2021, 7:30:58 PM)
+[2021.10.09-05.30.58:091][238]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-05.30.58:102][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010398s)
+[2021.10.09-05.30.58:103][238]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.09-05.30.58:103][238]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2021.10.09-05.30.58:103][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011972s)
+[2021.10.09-05.30.58:133][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.10.09-05.30.58:134][238]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.10.09-05.30.58:134][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.09-05.30.58:134][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.09-05.30.58:134][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.09-05.30.58:134][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.09-05.30.58:134][238]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.09-05.30.58:134][238]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.09-05.30.58:134][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.09-05.30.58:134][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.09-05.30.58:134][238]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.09-05.30.58:134][238]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.09-05.30.58:134][238]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.09-05.30.58:134][238]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.09-05.30.58:139][238]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.09-05.30.58:139][238]LogAudioMixer: Display: 1: FrontRight
+[2021.10.09-05.30.58:139][238]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.09-05.30.58:139][238]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.09-05.30.58:139][238]LogAudioMixer: Display: 4: BackLeft
+[2021.10.09-05.30.58:139][238]LogAudioMixer: Display: 5: BackRight
+[2021.10.09-05.30.58:139][238]LogAudioMixer: Display: 6: SideLeft
+[2021.10.09-05.30.58:139][238]LogAudioMixer: Display: 7: SideRight
+[2021.10.09-05.30.58:174][238]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.10.09-05.30.58:174][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.09-05.30.58:174][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.09-05.30.58:174][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.09-05.30.58:174][238]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.09-05.30.58:174][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.09-05.30.58:174][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.09-05.30.58:176][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.09-05.30.58:176][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.09-05.30.58:176][238]LogInit: FAudioDevice initialized.
+[2021.10.09-05.30.58:176][238]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonExampleMap'.
+[2021.10.09-05.30.58:182][238]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.09-05.30.58:184][238]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.10.09-00.30.58
+[2021.10.09-05.30.58:185][238]LogWorld: Bringing up level for play took: 0.001721
+[2021.10.09-05.30.58:185][238]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.10.09-05.30.58:187][238]PIE: Server logged in
+[2021.10.09-05.30.58:188][238]PIE: Play in editor total start time 0.128 seconds.
+[2021.10.09-05.31.14:132][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-05.31.14:132][191]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-05.31.14:132][191]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.09-05.31.14:132][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-05.31.14:143][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.09-05.31.14:148][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-05.31.14:170][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.09-05.31.14:170][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-05.31.14:171][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-05.31.14:200][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-05.31.14:204][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.10.09-05.31.14:225][192]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.10.09-05.31.27:905][965]LogEditorTransaction: Undo Delete current selection
+[2021.10.09-05.31.34:320][318]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.31.34:367][318]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.10.09-05.31.34:946][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.31.34:964][342]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal62F8EAC24CC78F8D75F69FA608D96CD6.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.31.34:977][342]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.31.34:977][342]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.32.13:344][601]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.32.13:391][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.10.09-05.32.13:887][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.32.13:906][625]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/PortalAF31D8B44CA15B13A80BCCA1D99DC754.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.32.13:919][625]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.32.13:919][625]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.32.28:417][347]BlueprintLog: New page: Compile Portal
+[2021.10.09-05.32.28:465][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.10.09-05.32.29:004][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/Portal" FILE="../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset" SILENT=true
+[2021.10.09-05.32.29:024][372]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/Portal8E1755134DA92D1F1AB3CAB12FD8C08D.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Blueprints/Portal.uasset'
+[2021.10.09-05.32.29:051][372]AssetCheck: New page: Asset Save: Portal
+[2021.10.09-05.32.29:051][372]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Portal.Portal
+[2021.10.09-05.32.30:892][472]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.09-05.32.30:896][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.09-05.32.30:897][472]PIE: New page: PIE session: FirstPersonExampleMap (Oct 8, 2021, 7:32:30 PM)
+[2021.10.09-05.32.30:897][472]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-05.32.30:905][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008504s)
+[2021.10.09-05.32.30:906][472]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.09-05.32.30:906][472]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2021.10.09-05.32.30:906][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009704s)
+[2021.10.09-05.32.30:936][472]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.10.09-05.32.30:936][472]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.10.09-05.32.30:937][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.09-05.32.30:937][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.09-05.32.30:937][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.09-05.32.30:937][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.09-05.32.30:937][472]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.09-05.32.30:937][472]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.09-05.32.30:937][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.09-05.32.30:937][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.09-05.32.30:937][472]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.09-05.32.30:937][472]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.09-05.32.30:937][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.09-05.32.30:937][472]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.09-05.32.30:942][472]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.09-05.32.30:942][472]LogAudioMixer: Display: 1: FrontRight
+[2021.10.09-05.32.30:942][472]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.09-05.32.30:942][472]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.09-05.32.30:942][472]LogAudioMixer: Display: 4: BackLeft
+[2021.10.09-05.32.30:942][472]LogAudioMixer: Display: 5: BackRight
+[2021.10.09-05.32.30:942][472]LogAudioMixer: Display: 6: SideLeft
+[2021.10.09-05.32.30:942][472]LogAudioMixer: Display: 7: SideRight
+[2021.10.09-05.32.30:975][472]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.10.09-05.32.30:975][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.09-05.32.30:975][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.09-05.32.30:975][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.09-05.32.30:976][472]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.09-05.32.30:976][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.09-05.32.30:976][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.09-05.32.30:977][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.09-05.32.30:977][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.09-05.32.30:977][472]LogInit: FAudioDevice initialized.
+[2021.10.09-05.32.30:977][472]LogAudio: Display: Audio Device (ID: 17) registered with world 'FirstPersonExampleMap'.
+[2021.10.09-05.32.30:987][472]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.09-05.32.30:989][472]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.10.09-00.32.30
+[2021.10.09-05.32.30:989][472]LogWorld: Bringing up level for play took: 0.001411
+[2021.10.09-05.32.30:989][472]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.10.09-05.32.30:991][472]PIE: Server logged in
+[2021.10.09-05.32.30:992][472]PIE: Play in editor total start time 0.097 seconds.
+[2021.10.09-05.32.57:772][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-05.32.57:772][ 75]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-05.32.57:772][ 75]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.09-05.32.57:773][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-05.32.57:780][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.09-05.32.57:783][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-05.32.57:808][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.09-05.32.57:808][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-05.32.57:809][ 75]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-05.32.57:830][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-05.32.57:834][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.10.09-05.32.57:856][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.10.09-05.32.59:893][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.10.09-05.32.59:910][195]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMapCD54AB4A4364060C3E1291A19DF1A2F2.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.09-05.33.00:467][195]LogSavePackage: Moving '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Saved/FirstPersonExampleMap_BuiltData838476A34B042FB4F16AE3B0796D923A.tmp' to '../../../../Git/UE4NonEuclid/NonEuclidPlayGround/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.09-05.33.00:485][195]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.09-05.33.00:485][195]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.09-05.33.00:485][195]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.09-05.33.07:857][638]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.09-05.33.07:862][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.09-05.33.07:862][638]PIE: New page: PIE session: FirstPersonExampleMap (Oct 8, 2021, 7:33:07 PM)
+[2021.10.09-05.33.07:862][638]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-05.33.07:871][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008816s)
+[2021.10.09-05.33.07:872][638]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.09-05.33.07:873][638]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2021.10.09-05.33.07:873][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010105s)
+[2021.10.09-05.33.07:902][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.10.09-05.33.07:903][638]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.10.09-05.33.07:903][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.09-05.33.07:903][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.09-05.33.07:903][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.09-05.33.07:903][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.09-05.33.07:903][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.09-05.33.07:903][638]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.09-05.33.07:903][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.09-05.33.07:903][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.09-05.33.07:903][638]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.09-05.33.07:904][638]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.09-05.33.07:904][638]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.09-05.33.07:904][638]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.09-05.33.07:907][638]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.09-05.33.07:907][638]LogAudioMixer: Display: 1: FrontRight
+[2021.10.09-05.33.07:907][638]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.09-05.33.07:907][638]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.09-05.33.07:907][638]LogAudioMixer: Display: 4: BackLeft
+[2021.10.09-05.33.07:908][638]LogAudioMixer: Display: 5: BackRight
+[2021.10.09-05.33.07:908][638]LogAudioMixer: Display: 6: SideLeft
+[2021.10.09-05.33.07:908][638]LogAudioMixer: Display: 7: SideRight
+[2021.10.09-05.33.07:942][638]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.10.09-05.33.07:942][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.09-05.33.07:942][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.09-05.33.07:942][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.09-05.33.07:942][638]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.09-05.33.07:942][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.09-05.33.07:942][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.10.09-05.33.07:943][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.09-05.33.07:944][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.09-05.33.07:944][638]LogInit: FAudioDevice initialized.
+[2021.10.09-05.33.07:944][638]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonExampleMap'.
+[2021.10.09-05.33.07:950][638]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.09-05.33.07:953][638]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2021.10.09-00.33.07
+[2021.10.09-05.33.07:953][638]LogWorld: Bringing up level for play took: 0.001512
+[2021.10.09-05.33.07:953][638]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.10.09-05.33.07:955][638]PIE: Server logged in
+[2021.10.09-05.33.07:956][638]PIE: Play in editor total start time 0.094 seconds.
+[2021.10.09-05.33.18:722][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-05.33.18:722][281]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.09-05.33.18:723][281]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.09-05.33.18:723][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-05.33.18:734][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.09-05.33.18:739][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.09-05.33.18:762][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.09-05.33.18:762][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-05.33.18:763][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.09-05.33.18:788][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.10.09-05.33.18:809][282]LogPlayLevel: Display: Destroying online subsystem :Context_24
